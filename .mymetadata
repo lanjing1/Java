@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ConcurrenceTest"
+  id="myeclipse.1448008503786"
+  context-root="/ConcurrenceTest"
+  j2ee-spec="5.0"
+  archive="ConcurrenceTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
